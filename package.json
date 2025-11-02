@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/LaraAlexLopes/Smart_NX_QA_JUNIOR_LaraLopes/issues"
   },
-  "homepage": "https://github.com/LaraAlexLopes/Smart_NX_QA_JUNIOR_LaraLopes#readme"
+  "homepage": "https://github.com/LaraAlexLopes/Smart_NX_QA_JUNIOR_LaraLopes#readme",
+  "devDependencies": {
+    "cypress": "^15.5.0"
+  }
 }
