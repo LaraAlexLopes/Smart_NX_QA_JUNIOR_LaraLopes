@@ -13,13 +13,13 @@ INSTRUÇÕES GERAIS
 - Bugs sem passo a passo podem ser devolvidos para ajuste.
 -->
 
-## 📄 DESCRIÇÃO
+📄 DESCRIÇÃO
 <!--
 Descreva o problema de forma clara e objetiva.
 Explique o que está errado, onde ocorre e o impacto do problema.
 -->
 
-## 🔁 REPLICABILIDADE (Passo a passo)
+🔁 REPLICABILIDADE (Passo a passo)
 <!--
 Descreva o passo a passo para reproduzir o erro.
 Exemplo:
@@ -29,13 +29,13 @@ Exemplo:
 4. Salvar
 -->
 
-## 🌐 ACESSE
+🌐 ACESSE
 <!--
 Informe a URL, tela ou caminho dentro do sistema onde o erro ocorre.
 Exemplo: Configurações > Formulários > Criar
 -->
 
-## 🔐 LOGIN
+🔐 LOGIN
 <!--
 Informe o tipo de usuário/perfil utilizado.
 NÃO informe senhas reais.
@@ -43,31 +43,31 @@ NÃO informe senhas reais.
 Usuário:
 Perfil:
 
-## 🖱️ AÇÃO
+🖱️ AÇÃO
 <!--
 Descreva exatamente o que foi feito antes do erro acontecer.
 Exemplo: clicar em salvar, excluir, editar, importar, etc.
 -->
 
-## 📝 DADOS INFORMADOS
+📝 DADOS INFORMADOS
 <!--
 Liste os dados preenchidos nos campos (se houver).
 Exemplo: Nome do formulário, tipo de campo, valores digitados.
 -->
 
-## ❌ RESULTADO ATUAL
+❌ RESULTADO ATUAL
 <!--
 Descreva o que está acontecendo atualmente.
 Inclua mensagens de erro, comportamentos inesperados ou falhas.
 -->
 
-## ✅ RESULTADO ESPERADO
+✅ RESULTADO ESPERADO
 <!--
 Descreva o comportamento esperado do sistema.
 Explique como deveria funcionar corretamente.
 -->
 
-## 🧪 AMBIENTE
+🧪 AMBIENTE
 <!--
 Marque o ambiente onde o erro foi identificado.
 -->
@@ -75,7 +75,7 @@ Marque o ambiente onde o erro foi identificado.
 - [ ] Staging
 - [ ] Desenvolvimento
 
-## 🌍 NAVEGADOR / APP
+🌍 NAVEGADOR / APP
 <!--
 Informe o navegador ou aplicativo utilizado.
 -->
@@ -84,12 +84,12 @@ Informe o navegador ou aplicativo utilizado.
 - [ ] Edge
 - [ ] Outro: __________
 
-## 📅 DATA / HORA APROXIMADA
+📅 DATA / HORA APROXIMADA
 <!--
 Informe quando o erro ocorreu (se possível).
 -->
 
-## 🎥 EVIDÊNCIAS (VÍDEO / IMAGEM)
+🎥 EVIDÊNCIAS (VÍDEO / IMAGEM)
 <!--
 Adicione link de vídeo, print ou GIF mostrando o erro.
 Isso ajuda MUITO na análise.
