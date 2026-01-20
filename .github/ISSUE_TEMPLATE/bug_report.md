@@ -1,3 +1,10 @@
+---
+name: Bug
+about: Reportar um erro no sistema
+title: "[LOCAL] [BUG] "
+labels: bug
+assignees: ""
+---
 
 **DESCRIÇÃO**  
 
